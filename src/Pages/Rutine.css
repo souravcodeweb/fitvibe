@@ -1,0 +1,82 @@
+.rutine{
+    width: 100%;
+    height: 100vh;
+    background-color: #f6e3cf;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerbox{
+    width: 80%;
+    height: 80%;
+    background-color: #fff;
+    border-radius: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 6rem;
+}
+
+.centerimg {
+    width: 35%;
+    height: 80%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.centerimg img{
+    width: 100%;
+    height: 100%;
+    margin-top: -80px;
+}
+
+.cntertext .titel{
+    display: flex;
+    flex-direction: column;
+    gap: 2rem;
+}
+
+.cntertext .titel h2{
+    font-size: 3rem;
+    line-height: 2.7rem;
+}
+
+.cntertext .titel p{
+    line-height: 1.2rem;
+}
+.listmark {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.checkmark {
+    display: flex;
+    align-items: center;
+    gap: 1rem;
+}
+
+.checkmark .dot{
+    width: 25px;
+    height: 25px;
+    border-radius: 50%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+.checkmark .dot1{
+    background-color: #e7e6fd;
+    color: #9b9bff;
+}
+.checkmark .dot2{
+    background-color: #ffe6d0;
+    color: #ffb57b;
+}
+
+.checkmark .dot3{
+    background-color: #d6edda;
+    color: #5fbd75;
+}

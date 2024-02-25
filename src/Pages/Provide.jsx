@@ -9,7 +9,7 @@ const Provide = () => {
     <div className="provide">
         <div className="phed">
             <h1>We Provide Best <br /> healthyfoods</h1>
-            <p>Lorem, ipsum dolor sit amet consectetur adipisicing elit. Sint, voluptatibus. <br /> Lorem ipsum dolor sit amet.</p>
+            <p>Lorem, ipsum dolor sit amet consectetur adipisicing <br /> Lorem ipsum dolor sit amet.</p>
         </div>
 
         <div className="multibox">

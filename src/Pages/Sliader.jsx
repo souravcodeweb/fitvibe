@@ -48,8 +48,8 @@ const Sliader = () => {
       <div className="hed">
         <h1>Just Arrived</h1>
         <p>
-          Lorem ipsum dolor sit amet, consectetur adipisicing elit. Harum, quam!{" "}
-          <br /> Lorem ipsum dolor sit amet consectetur adipisicing.
+          Lorem ipsum dolor sit amet, consectetur  elit.{" "}
+          <br /> Lorem ipsum dolor sit amet 
         </p>
       </div>
 

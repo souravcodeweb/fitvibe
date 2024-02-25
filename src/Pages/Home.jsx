@@ -16,8 +16,8 @@ const Home = () => {
         <h1>Take Health Into Your <br /> Own Hands</h1>
       </div>
       <div className="stext">
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Ea porro possimus eius!</p>
-        <p>Lorem ipsum dolor sit amet consectetur adipisicing.</p>
+        <p>Lorem ipsum dolor sit amet consectetur adipisicing elit.</p>
+        <p>Lorem ipsum dolor sit amet</p>
       </div>
       <div className="btn">
         <button className='know'>Know More</button>
@@ -44,7 +44,7 @@ const Home = () => {
     <Sliader/>
     <Provide/>
     <Rutine/>
-    {/* <Review/> */}
+    <Review/>
     </>
   )
 }

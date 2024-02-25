@@ -80,3 +80,30 @@
     background-color: #d6edda;
     color: #5fbd75;
 }
+
+
+@media (max-width: 650px) {
+    .rutine{
+        width: 100%;
+        height: 100vh;
+    }
+    
+    .centerbox{
+        width: 90%;
+        height: 90%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+        padding: 10rem 1rem;
+    }
+
+    .centerimg {
+        width: 100%;
+        height: 90%;
+    }
+    
+    .centerimg img{
+        margin-top: 0px;
+    }
+}

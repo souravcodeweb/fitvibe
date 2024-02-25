@@ -93,7 +93,7 @@
     }
     .slider{
         width: 100%;
-        height: calc(-60px + 90vh);
+        height: calc(-60px + 100vh);
         background-color: #fbf5f0;
         display: flex;
         flex-direction: column;

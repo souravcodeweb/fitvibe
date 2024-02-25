@@ -11,7 +11,7 @@ const Rutine = () => {
             <div className="cntertext">
                 <div className="titel">
                     <h2>A Routine <br /> Tailored To You.</h2>
-                    <p>Lorem ipsum dolor sit, amet consectetur adipisicing. <br /> Lorem ipsum dolor sit amet.</p>
+                    <p>Lorem ipsum dolor sit, amet consectetur. <br /> Lorem ipsum dolor sit amet.</p>
                     <div className="listmark">
                         <div className="checkmark">
                             <div className="dot dot1">

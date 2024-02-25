@@ -7,6 +7,7 @@ import Sliader from './Sliader';
 import Provide from './Provide';
 import Rutine from './Rutine';
 import Review from './Review';
+import Bottom from './Bottom';
 
 const Home = () => {
   return (
@@ -45,6 +46,7 @@ const Home = () => {
     <Provide/>
     <Rutine/>
     <Review/>
+    <Bottom/>
     </>
   )
 }
